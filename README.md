@@ -1,6 +1,6 @@
-<h1 align="center">MagicDictionary</h1>
+<h1 align="center">GreenDictionary</h1>
 
-<p align="center"><i>One <b>magical</b> dictionary...</i></p>
+<p align="center"><i>One <b>very green</b> dictionary.</i></p>
 
 <table>
   <tr>
@@ -9,24 +9,24 @@
     <th>Usage</th>
   </tr>
   <tr>
-    <td>Yeet me off a cliff</td>
-    <td>Probably just finished some work, bored, or tired</td>
-    <td>Mrmagicpie: Im bored, Yeet me off a cliff</td>
+    <td>indeed</td>
+    <td>Just an alias of yes, or true statement.</td>
+    <td>You: you finally finished that repository that has no use except to link people to in special occasions? Me: indeed</td>
   </tr>
   <tr>
-    <td>pls no</td>
-    <td>Something you sent is probably cursed</td>
-    <td>*Sends cursed image*   Mrmagicpie: pls no</td>
+    <td>..</td>
+    <td>The sound- of silence.</td>
+    <td>You: i'm gonna delete hypixel Me: ..</td>
   </tr>
   <tr>
-    <td>o h</td>
-    <td>You just made a bruh moment, something strange or a weird threat</td>
-    <td>Say "kek" or **die**. Mrmagicpie: o h</td>
+    <td>skRE+</td>
+    <td>I'm angry, annoyed, or disappointed.</td>
+    <td>You: your code is broken Me: skREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</td>
   </tr>
   <tr>
-    <td>honey</td>
-    <td>You've just said something weird, crazy, or totally off-topic</td>
-    <td>I like to eat baby's. Mrmagicpie: yourname, honey.</td>
+    <td>2sec/1sec</td>
+    <td>I'm probably not gonna respond for a good minute or more.</td>
+    <td>Me: need to create an entire working moderation discord bot, 1sec</td>
   </tr>
 
 </table>
